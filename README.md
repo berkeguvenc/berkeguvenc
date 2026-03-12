@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Senior+Frontend+Engineer;React+%26+Next.js+Expert;Building+Scalable+Architectures;Performance+Optimization+Pro)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/28787689?v=4" width="200" style="border-radius: 50%; padding: 5px; background-color: #003fef;" alt="Yağız Berke Güvenç Profile Picture"/>
-</div>
-
 👋 As a **Senior Frontend Engineer** based in Istanbul, I specialize in crafting high-performance, scalable web applications with 5+ years of experience. I hold a **Bachelor's in Computer Engineering** where I graduated with **High Honors (2nd in Department)**. 
 
 My expertise lies in transforming complex business requirements into elegant code using **React, Next.js, and TypeScript**. I’m passionate about modern frontend architecture, micro-frontends, and delivering seamless user experiences.
