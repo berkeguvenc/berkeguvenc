@@ -14,6 +14,7 @@ My expertise lies in transforming complex business requirements into elegant cod
 - 🌱 Learning: **Deep-diving into Micro Frontends and Serverless Architectures for large-scale enterprise solutions.**
 - 👯 Looking to collaborate on: **Advanced React/Next.js component systems and Open Source performance tools.**
 - 💬 Ask me about: **React architecture, Next.js (SSR/ISR), state management (Zustand/Redux), and performance optimization.**
+--
 
 ---
 
